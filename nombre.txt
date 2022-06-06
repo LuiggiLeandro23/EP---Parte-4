@@ -1,0 +1,10 @@
+pan
+azucar
+huevo
+leche
+aceite
+galleta
+mantequilla
+mermelada
+queso
+sal
