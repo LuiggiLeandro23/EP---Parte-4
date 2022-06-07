@@ -1,0 +1,9 @@
+Integrantes
+   - Chavez Gamarra Jose Carlos
+     Git Hub: https://github.com/jose2101/EP-Parte01
+   - Reyes Sanchez Oscar Elias
+     Git Hub: https://github.com/Crowley7/EP-Parte02.git
+   - Sayas de la Vega Piero
+     Git Hub: https://github.com/PieroGSV/EP_Parte03
+   - Leandro Blas Luiggi Anderson
+     Git Hub: https://github.com/LuiggiLeandro23/EP---Parte-4.git
