@@ -8,3 +8,5 @@ mantequilla
 mermelada
 queso
 sal
+tallarines
+mermelada
